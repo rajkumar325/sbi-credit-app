@@ -2,7 +2,7 @@
 x = 1
 y = 2
 z = x + y
-
+this is 1st change
 
 
 a = 10
@@ -13,3 +13,4 @@ c = a + b
 git stash project
 int a = 100
 this is 2nd change
+
